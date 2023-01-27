@@ -11,7 +11,7 @@ Connect with me:
     Instagram: nygmetov_r
    
    
-Language skills:
+Languages and Tools:
 
      Swift
      Python
@@ -20,3 +20,6 @@ Language skills:
      Go
      SQLite
      Postgresql
+     Django
+     DRF
+     IOS development
