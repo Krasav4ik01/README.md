@@ -18,3 +18,5 @@ Language skills:
      JavaScript
      HTML,CSS
      Go
+     SQLite
+     Postgresql
